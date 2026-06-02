@@ -32,7 +32,7 @@ export const venue: Venue = {
       endDate: "2026-11-25",
       location: "Adelaide, Australia",
       announced: true,
-      paperDeadline: "2026-06-02",
+      paperDeadline: "2026-06-12",
       website: "https://www.ozchi.org/2026",
     },
   ],
